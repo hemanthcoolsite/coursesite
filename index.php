@@ -59,10 +59,10 @@
       <img src="images/python.jpg" alt="python" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="images/python.jpg" alt="web" width="1100" height="500">
+      <img src="images/web.jpg" alt="web" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="images/python.jpg" alt="game" width="1100" height="500">
+      <img src="images/mobile.jpg" alt="mobile" width="1100" height="500">
     </div>
   </div>
   
