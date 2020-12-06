@@ -47,7 +47,7 @@
 </nav>
 <section id="sec">
     <div class="w-50 m-auto">
-      <form action="response.php" method="post">
+      <form action="response.js" method="post">
         <div class="form-group">
           <label>Parant Name</label>
           <input type="text" name="parant" class="form-control">
