@@ -119,7 +119,7 @@
   			</div>
   				<div class="col-lg-4 col-mg-4 col-12">
   				<div class="card">
-  				<img class="card-img-top" src="images/Scratch.jpeg" alt="app"  width="200" height="200">
+  				<img class="card-img-top" src="images/Scratch.jpg" alt="app"  width="200" height="200">
   				<div class="card-body">
   					<h4>Scratch Junior</h4>
   					<p>Book Scratch Junior trial class now</p>
